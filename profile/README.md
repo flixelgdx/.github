@@ -3,7 +3,7 @@
   
   # FlixelGDX
   
-  **A powerful, beginner-friendly game development framework for Java**
+  **A lightweight, beginner-friendly game development framework for Java**
   
   [📖 Docs](https://flixelgdx.org/docs) · [🚀 Getting Started](https://flixelgdx.org/getting-started) · [💬 Discussions](https://github.com/orgs/flixelgdx/discussions) · [🌐 Website](https://flixelgdx.org/)
 </div>
