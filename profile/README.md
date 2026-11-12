@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="logo.png" alt="FlixelGDX Logo" width="500"/>
   
   # FlixelGDX
   
   **A lightweight, beginner-friendly game development framework for Java**  
-  **Logo Artist: [LeoThM](https://www.instagram.com/leoxthm_/)**
   
   [📖 Docs](https://flixelgdx.org/docs) · [🚀 Getting Started](https://flixelgdx.org/getting-started) · [💬 Discussions](https://github.com/orgs/flixelgdx/discussions) · [🌐 Website](https://flixelgdx.org/)
 </div>
